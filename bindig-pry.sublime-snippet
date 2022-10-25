@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+binding.pry
+]]></content>
+	<tabTrigger>bind</tabTrigger>
+	<scope>source.ruby</scope>
+  <description>binding.pry debugger</description>
+</snippet>
